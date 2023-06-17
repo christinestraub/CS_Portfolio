@@ -1,12 +1,15 @@
 ---
 title: Christine Straub
 role: Machine Learning Engineer
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include Artificial Intelligence, Machine Learning,
+  Computer Vision.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative AI
+  - Metaverse
+  - Human-centered AI
+  - Blockchain
+  - Robotics
+  - Cryptocurrencies & Trading.
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,27 +25,22 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/christinestraub
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Bachelor ofArts- BA,Computer Science
+      institution: University of California - Berkeley
+      year: 2017
+    - course: Bachelor ofArts- BA,CognitiveScience
+      institution: University of California - Berkeley
+      year: 2017
 superuser: true
 status:
   icon: ☕️
@@ -51,6 +49,11 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Passionate about leveraging artificial intelligence and data to
+drive business growth and improve decision-making
+processes. Skilled in developing and deploying advanced
+machine learning models, utilizing deep learning
+techniques, and working with big data technologies. Proven
+track record of delivering high-quality results and
+collaborating with cross-functional teams to bring innovative
+solutions to market.{style="text-align: justify;"}
