@@ -20,15 +20,12 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/christinestraub
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/straubchristine/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -56,4 +53,4 @@ machine learning models, utilizing deep learning
 techniques, and working with big data technologies. Proven
 track record of delivering high-quality results and
 collaborating with cross-functional teams to bring innovative
-solutions to market.{style="text-align: justify;"}
+solutions to market.
